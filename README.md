@@ -11,5 +11,5 @@ Created virtual environment of Python3
 Ran Flask app locally
 Made changes to main.py and ensured on-the-fly updating
 Delpoyed Flask app 
-Pushed directory to GitHub
+Pushed directory to GitHub by creating 
 Made changes to main.py and ensured those changes successfully pushed to GitHub
