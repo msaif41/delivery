@@ -8,8 +8,8 @@ Description
 * Created "helloml" project in Google Cloud Platform
 * Established SSH key and ran git clone of repository
 * Created main.py, main_test.py, requirements.txt
-* Create and ran Makefile
 * Created Python 3 virtual environment
+* Created and ran Makefile to install all needed packages and dependencies
 * Ran Flask app locally
 * Made changes to main.py and ensured on-the-fly updating
 * Delpoyed Flask app, ensured routes functioned properly
