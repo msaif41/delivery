@@ -2,6 +2,7 @@ Continuous Delivery of Flask Application on GCP
  =============
 
 Description
+---------------
 
 * Created GitHub repository "Delivery" 
 * Created "helloml" project in Google Cloud Platform
