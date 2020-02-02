@@ -9,7 +9,7 @@ Description
 * Established SSH key and ran git clone of repository
 * Created main.py, main_test.py, requirements.txt
 * Create and ran Makefile
-* Created virtual environment of Python3 
+* Created Python 3 virtual environment
 * Ran Flask app locally
 * Made changes to main.py and ensured on-the-fly updating
 * Delpoyed Flask app, ensured routes functioned properly
