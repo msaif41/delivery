@@ -10,6 +10,7 @@ Description
 * Created main.py, main_test.py, requirements.txt
 * Created Python 3 virtual environment
 * Created and ran Makefile to install all needed packages and dependencies
+* gcloud app create 
 * Ran Flask app locally
 * Made changes to main.py and ensured on-the-fly updating
 * Delpoyed Flask app, ensured routes functioned properly
