@@ -3,7 +3,7 @@ Continuous Delivery of Flask Application on GCP
 
 Description
 
-*Created GitHub repository "Delivery" 
+* Created GitHub repository "Delivery" 
 *Created "helloml" project in Google Cloud Platform
 *Established SSH key and ran git clone of repository
 *Created main.py, main_test.py, requirements.txt
